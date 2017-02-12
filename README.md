@@ -43,5 +43,6 @@ This lab explores using PHPUnit for Behavior Driven Development (BDD) testing.
 | Behavior                          | Input                      | Output                    |
 |-----------------------------------|----------------------------|---------------------------|
 |Single word                        | beowulf                    | Beowulf                   |
+|Multiple words                     | the little mermaid         | the little mermaid        |
 
 * End specifications
