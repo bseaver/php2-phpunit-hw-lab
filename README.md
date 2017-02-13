@@ -1,4 +1,4 @@
-# Address Book with Silex and Twig
+# Title Case
 
 #### Epicodus PHP Week 2 Homework Lab, 2/12/2017
 
@@ -9,11 +9,11 @@
 This lab explores using PHPUnit for Behavior Driven Development (BDD) testing.
 
 ## Setup/Installation Requirements
+* (See https://secure.php.net/ for details on installing _PHP_)
+* (See https://getcomposer.org for details on installing _composer_)
 * Clone project
 * Run `composer install --prefer-source --no-interaction` from project root
-* (See https://getcomposer.org for details on installing _composer_)
 * Start PHP in web folder: Example web $ `php -S localhost:8000`
-* (See https://secure.php.net/ for details on installing _PHP_)
 * In web browser open `localhost:8000`
 
 ## Known Bugs
@@ -25,6 +25,7 @@ This lab explores using PHPUnit for Behavior Driven Development (BDD) testing.
 ## Technologies Used
 * PHP
 * Composer
+* PHPUnit
 * Silex
 * Twig
 * HTML
