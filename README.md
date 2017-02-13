@@ -15,6 +15,7 @@ This lab explores using PHPUnit for Behavior Driven Development (BDD) testing.
 * Run `composer install --prefer-source --no-interaction` from project root
 * Start PHP in web folder: Example web $ `php -S localhost:8000`
 * In web browser open `localhost:8000`
+* For unit tests in project folder run $ `vendor/bin/phpunit tests`
 
 ## Known Bugs
 * No known bugs
